@@ -1,0 +1,84 @@
+a {
+    border: ipx solid green;
+    color: yellowgreen;
+    font-size: 10px;
+}
+h4{
+    border: ipx solid green;
+    color: palegreen;
+}
+h3 {
+    color: purple;
+}
+p {
+    color: aqua;
+}
+.Instagram {
+    background: url("https://avatars.mds.yandex.net/i?id=a00465eb08830085b4ce462e3b57a421-4613168-images-thumbs&n=13") ;}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+}
+.navbar .container {
+    line-height: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-menu li {
+    display: inline-block;
+}
+.navbar-menu li a{
+    display: inline-block;
+    color: #000;
+    opacity: 0.6;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 10px;
+}
+.navbar-menu li a:hover {
+    opacity: 1;
+    transition: all .07s ease-in-out;
+}
+.navbar-wrap{
+    display: flex;
+    flex-flow: row nowrap;
+}
+.callback {
+    size: 13px;
+    font-size: 30px;
+    margin-left: 30px;
+    padding: 10px 30px;
+    color: white;
+    background-color: red ;
+    border-radius: 200px;
+    text-decoration: none;
+    transition: all .1s ease-out;
+}
+.callback:hover {
+    transform: scale(1.04);
+    color: coral;
+    box-shadow: 0 9px 9px rgba(255, 127, 80, .5);
+}
+.navbar-brend {
+font-weight: 700;
+font-size: 26px;
+text-decoration: none;
+color: black;
+}
+.navbar-brend:hover {
+  color: coral;
+    transition: all .07s ease-in-out;
+}
+
+.iitu{
+    margin: 20px;
+}
+
+.back{
+    color: #000;
+    margin-left: 900px;
+    font-size: 20px;
+}

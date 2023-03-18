@@ -1,0 +1,168 @@
+.bodys{
+  background-color: #000000;
+}
+
+.img{
+  position: relative;
+}
+
+.img2{
+    opacity: 0.6;
+
+}
+
+
+
+
+.logo{
+  color: #FFFFFF;
+   font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px; 
+}
+
+.form{
+  margin-left: 50px;
+  background: #000000;
+  box-shadow: 0px 4px 64px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+  padding: 50px;
+  padding-top: 100px;
+}
+
+.page-wrapper{
+    display: flex;
+    width: 1440px;
+    height: 900px;
+    }
+
+    .text1{
+      color: #FFFFFF;
+      font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+
+    }
+
+    .text2{
+      color: #FFFFFF;
+      font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+    }
+
+    .register-color{
+      color: #C10C99;
+       text-decoration: none;
+    }
+
+    .register{
+      font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+padding-top: 6px;
+
+
+
+color: #ffffff;
+    }
+
+    .email{
+      color: #FFFFFF;
+      padding-top: 40px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 13px;
+      line-height: 20px;
+    }
+
+    .form-item{
+      color: #FFFFFF;
+      display: flex;
+      flex-direction: column;
+      margin-top: 30px;
+  }
+
+    .form-input{
+      background: #000000;
+  border: 0.5px solid #282828;;
+  border-radius: 6px;
+  padding: 19px 15px;
+  }
+
+  .btm{
+   background:  #C10C99;
+   border-radius: 6px;
+
+   color: #fff;
+   margin-top: 40px;
+   min-width: 400px;
+   padding: 17px 0;
+   border: none;
+   cursor: pointer;
+}
+
+.text3{
+  color: #FFFFFF;
+    padding-top: 30px;
+    padding-left: 140px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #B5B5B5;
+}
+
+.text4{
+  padding-left: 200px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+color: #FFFFFF;
+}
+
+
+.icon{
+  display: flex;
+  padding-top: 33px;
+  width: 200px;
+  padding-left: 100px;
+}
+.icons{
+   width: 40px;
+   height: 40px;
+   margin-inline: 8px;  
+}
+
+.form-chex{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+  
+
+
+.icon1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+  padding-top: 2px;
+  display: flex;
+  }
